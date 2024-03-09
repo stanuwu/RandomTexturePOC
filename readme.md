@@ -1,4 +1,4 @@
-﻿# Random Texture Stitcher Proof of Concept
+﻿# Random Texture Proof of Concept
 This program takes an image with 16 textures, and randomly creates a texture of a given size.
 There are 2 base textures, texture 0000 (top left) and texture 1111 (bottom right).
 The ID describes the seams of the texture starting left and going counter-clockwise.
